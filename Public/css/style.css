@@ -1,0 +1,89 @@
+.navbar-brand {
+    color: springgreen !important;
+    font-size: 25px;
+}
+
+.navbar-collapse {
+    justify-content: space-around;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 0 4em;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    color: springgreen;
+    background-color: gray;
+    margin: 0;
+    padding: 0.5em;
+}
+
+h3 {
+    background-color: gray;
+    color: springgreen;
+    padding: 0.5em;
+    margin: auto;
+}
+
+thead {
+    text-align: center;
+    background-color: #343a40;
+}
+
+tbody {
+    text-align: center;
+}
+
+.table-dark {
+    background-color: gray;
+}
+
+.bDelete {
+    background-color: tomato;
+    color: white;
+    border: none;
+    border-radius: 0.2em;
+    padding: 0.5em;
+    font-weight: bold;
+}
+
+.bMod {
+    background-color: springgreen;
+    color: white;
+    border: none;
+    border-radius: 0.2em;
+    padding: 0.4em;
+    font-weight: bold;
+}
+
+.ajouter .add {
+    color: springgreen !important; /*fonctionne pas*/
+    border-radius: 0.2em;
+    border: none;
+    padding: 0.5em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.formfilm {
+    width: 80%;
+    margin: auto;
+}
+
+td a {
+    text-decoration: none;
+    color: white;
+}
+
+#accueil {
+    display: block;
+    margin: auto;
+    width: 80%;
+}
+
+body {
+    background: #343a40;
+}
+
